@@ -12,3 +12,6 @@ Team
 About Project
 
 WebDari is an online drug search service. The platform will provide complete information about the list of drugs, in which pharmacies they are right now, in what quantity and at what price. There also will be provided prescriptions for the use and side effect
+
+
+--allow-unrelated-histories
