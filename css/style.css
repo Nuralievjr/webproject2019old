@@ -633,7 +633,7 @@ img.r-img{
 }
 /*----special-products----*/
 .special-products{
-	background: aliceblue;
+	background: #47c9af;
 	margin: 2em 15px 5em;
 	padding: 1.2em 1.5em;
 }
@@ -643,22 +643,22 @@ img.r-img{
 .s-products-head-left h3{
 	margin: 0;
 	padding: 0;
-	color: #000;
+	color: black;
 	font-size: 1.5em;
 	font-weight: 600;
 }
 .s-products-head-left h3 span{
-	color:#F2262C;
+	color:white;
 }
 .s-products-head-right{
 	float:right;
 }
 .s-products-head-right a{
-	color:#504F4F;
+	color:black;
 	font-style:italic;
 }
 .s-products-head-right a:hover{
-	color:#FE3026;
+	color:white;
 	text-decoration:none;
 }
 .s-products-head-right a span{
@@ -712,7 +712,7 @@ img.r-img{
 	color:#47c9af;
 }
 .product-btn{
-	background:#47c9af;
+	background: cadetblue;
 	padding:0.4em 1em;
 	color:#fff;
 	border-radius:30em;
