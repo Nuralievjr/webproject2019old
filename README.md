@@ -7,7 +7,7 @@ Team
 | Nuraliev Abylaikhan | ablainuraliev@gmail.com | [https://github.com/Nuralievjr/webdev2019](https://github.com/Nuralievjr/webproject2019) |
 | Baliikhanov Agabek | baliikhanov2@gmail.com | [https://github.com/Baliikhanov/webdev2019](https://github.com/Baliikhanov/webdev2019) |
 | Barganaev Joldybai | zbarganaev@gmail.com | [https://github.com/barganaev/webdev19](https://github.com/barganaev/webdev19) |
-| Aimukhanov Iskander | Isvia18081999@gmail.com | [https://github.com/Esken-VIA/webdev2019](https://github.com/Esken-VIA/webdev2019) |
+VIA/webdev2019) |
 
 About Project
 
